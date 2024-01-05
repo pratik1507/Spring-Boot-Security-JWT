@@ -25,7 +25,7 @@ Add the following dependencies
 ![image](https://github.com/pratik1507/Spring-Boot-Security---JWT/assets/110710381/23f84be2-033f-48f3-b028-2c1a50fe9ad6) </br>
 
 <strong>For login : (http://localhost:8080/auth/login) : This api is permitted without the valid jwt token .</br>
-After hitting this api a valid JWT token has been generated with which you can access other protected api's.</strong></br>
+After hitting this api with valid payload , a JWT token will been generated with which you can access other protected api's.</strong></br>
 ![image](https://github.com/pratik1507/Spring-Boot-Security---JWT/assets/110710381/6ec71ee5-4307-4584-ac8a-83e4cc29f73f)
 
 <strong>After login : </br>
