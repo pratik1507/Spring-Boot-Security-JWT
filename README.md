@@ -47,7 +47,7 @@ Add the following dependencies
     <scope>runtime</scope>
 </dependency>
 
-# JWT Authentication : 
+# JWT Authentication Flow: 
 ![image](https://github.com/pratik1507/Spring-Boot-Security---JWT/assets/110710381/49ba67dc-46aa-4ce0-8d52-50b247801802)
 
 # Output : 
