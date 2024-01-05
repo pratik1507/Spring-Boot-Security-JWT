@@ -30,7 +30,7 @@ After hitting this api with valid payload , a JWT token will been generated with
 
 <strong>After login : </br>
 When you are hitting any protected api you need to pass the generated jwt token with the api </br>
-Key : Authentication </br>
+Key : Authorization </br>
 value : Bearer + blank space + generated jwt token </strong></br>
 
 ![image](https://github.com/pratik1507/Spring-Boot-Security---JWT/assets/110710381/aee1e8d3-3c9d-481c-b328-fc58e28513e0)
